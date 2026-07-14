@@ -4,6 +4,14 @@
 
 ---
 
+## Project Showcase
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bibythayyil/bibythayyil/main/assets/ecommerce_customer_churn_dashboard.png" width="900">
+</p>
+
+---
+
 ## Project Overview
 
 In the e-commerce domain, understanding customer churn is critical for sustaining profitability and customer relationships. This project uses MySQL to clean, transform, and analyze historical transactional data from an e-commerce platform, uncovering patterns in customer attrition and behavior to support targeted retention strategies.
