@@ -145,7 +145,3 @@ SOURCE E-Commerce_Customer_Churn_Analysis.sql;
 **Bibin T S**
 
 ---
-
-## Related Projects
-
-- [Fleet Performance & Delivery Efficiency Dashboard — Power BI](https://github.com/bibythayyil/fleet-performance-delivery-dashboard-powerbi)
